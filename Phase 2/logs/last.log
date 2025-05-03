@@ -1,0 +1,18 @@
+vagrant  tty1                          Fri Apr 18 18:35   still logged in   
+reboot   system boot  3.13.0-170-gener Fri Apr 18 18:34 - 21:29  (02:55)    
+vagrant  tty1                          Fri Apr 18 18:04 - crash  (00:29)    
+reboot   system boot  3.13.0-170-gener Fri Apr 18 18:03 - 21:29  (03:26)    
+vagrant  tty1                          Thu Apr 17 19:06 - crash  (22:57)    
+reboot   system boot  3.13.0-170-gener Thu Apr 17 19:03 - 21:29 (1+02:25)   
+vagrant  tty1                          Thu Apr 17 18:47 - crash  (00:16)    
+reboot   system boot  3.13.0-170-gener Thu Apr 17 18:45 - 21:29 (1+02:44)   
+vagrant  tty1                          Thu Apr 17 17:32 - crash  (01:13)    
+reboot   system boot  3.13.0-170-gener Thu Apr 17 17:26 - 21:29 (1+04:03)   
+vagrant  tty1                          Sat Jan  8 11:04 - down   (00:00)    
+reboot   system boot  3.13.0-170-gener Sat Jan  8 11:04 - 11:05  (00:00)    
+vagrant  tty1                          Sat Jan  8 10:16 - down   (00:13)    
+reboot   system boot  3.13.0-24-generi Sat Jan  8 10:15 - 10:29  (00:13)    
+reboot   system boot  3.13.0-24-generi Sat Jan  8 10:03 - 10:29  (00:25)    
+reboot   system boot  3.13.0-24-generi Thu Oct 29 19:26 - 19:39  (00:13)    
+
+wtmp begins Thu Oct 29 19:26:01 2020

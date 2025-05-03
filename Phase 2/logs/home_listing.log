@@ -1,0 +1,25 @@
+total 86088
+drwxr-xr-x  8 vagrant vagrant     4096 Apr 18 21:27 .
+drwxr-xr-x 18 root    root        4096 Oct 29  2020 ..
+-rw-r--r--  1 root    root       50900 Apr 18 18:41 auth.log
+-rw-------  1 vagrant vagrant      198 Jan  8  2022 .bash_history
+-rw-r--r--  1 vagrant vagrant      220 Oct 29  2020 .bash_logout
+-rw-r--r--  1 vagrant vagrant     3637 Oct 29  2020 .bashrc
+drwxr-xr-x  3 root    root        4096 Oct 29  2020 .bundle
+drwx------  2 vagrant vagrant     4096 Oct 29  2020 .cache
+-rw-rw-r--  1 vagrant vagrant        0 Apr 18 18:13 dmesg.log
+-rw-rw-r--  1 vagrant vagrant    41631 Apr 18 18:15 dmseg.log
+drwx------  2 root    root        4096 Oct 29  2020 .gnupg
+-rw-rw-r--  1 vagrant vagrant     1301 Apr 18 18:17 home_listing.log
+drwxrwxr-x  2 vagrant vagrant     4096 Apr 18 21:31 ics344_logs
+-rw-rw-r--  1 vagrant vagrant     1116 Apr 18 18:15 last.log
+drwxr-xr-x 55 vagrant vagrant     4096 Oct 29  2020 .npm
+-rw-r--r--  1 vagrant vagrant      675 Oct 29  2020 .profile
+drwx------  2 vagrant vagrant     4096 Apr 17 21:00 .ssh
+-rw-r--r--  1 vagrant vagrant    10498 Apr 17 20:54 sshpass_1.05-1_amd64.deb
+-rw-r--r--  1 root    root      741446 Apr 18 18:43 syslog
+-rw-r-----  1 root    root      661021 Apr 18 18:13 syslog.log
+-rw-------  1 vagrant vagrant      434 Apr 17 20:50 task1_2_script.sh
+-rw-r--r--  1 vagrant vagrant 86562816 Oct 29  2020 VBoxGuestAdditions.iso
+-rw-r--r--  1 vagrant vagrant        5 Oct 29  2020 .vbox_version
+-rw-rw-r--  1 vagrant vagrant       39 Apr 18 18:16 who.log
